@@ -1,4 +1,4 @@
-My Artist Webiste
+## My Artist Webiste
 
 **As of 05/28/2025, this project is not complete so it should not be used unless stated 'completed'**
 
