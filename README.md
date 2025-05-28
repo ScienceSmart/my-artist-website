@@ -9,6 +9,7 @@ However, one can use this project for getting a basic layout while adding their 
 I created the project using NextJS for indexing on Google and Tailwind CSS due to its simplicity. There is also creating your own account to act as a Content Management System (CMS) in updating the website.
 
 **README FROM NEXTJS:**
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
