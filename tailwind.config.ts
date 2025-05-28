@@ -8,9 +8,16 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Tahoma', 'sans-serif'],   
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        sidebar: "#708B7A",
+        navbar: "#69E097",
+        headerSection: "#E0CB69",
+        main: "#6F9C80",
       },
     },
   },
